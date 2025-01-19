@@ -66,3 +66,12 @@ body{
   left: 50%;
   transform: translate(-50% ,-50%);
 }
+.brand-icons{
+  display: flex;
+  padding: 30px;
+  justify-content: space-around;
+  margin: 0px auto;
+}
+.brand-width{
+  width: 985px;
+}
